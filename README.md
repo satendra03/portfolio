@@ -4,7 +4,7 @@ Welcome to the repository for my personal portfolio website! This project showca
 
 ## 🖥️ Live Demo
 
-Check out the live version of my portfolio here: **[https://satendra-portfolio.vercel.app/](#)**
+Check out the live version of my portfolio here: **[LIve](https://satendra-portfolio.vercel.app/)**
 
 ## 🚀 Features
 
