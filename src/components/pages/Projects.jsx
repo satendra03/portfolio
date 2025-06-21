@@ -11,6 +11,13 @@ function Projects() {
 
   const projects = [
     {
+      title: "fast-apps",
+      desktopPath: "/FastApps/desktop.png",
+      desc: "A CLI tool that instantly scaffolds production-ready React or Node.js apps with pre-configured setups. It removes boilerplate work by generating projects with modern best practices and popular tools like Tailwind CSS, shadcn/ui, Express, and dotenv.",
+      githubLink: "https://github.com/satendra03/fast-apps",
+      liveLink: "https://fast-apps.vercel.app",
+    },
+    {
       title: "Portfolio",
       desktopPath: "/Portfolio/desktop.png",
       desc: "A personal portfolio showcasing my projects, skills, and experiences. It provides an interactive platform for visitors to explore my professional journey and accomplishments.",
